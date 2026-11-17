@@ -827,4 +827,14 @@ window.VENARI_PRODUCTS = [
     "description": "Workshit Vandutch Eyed dari koleksi K VÉNARI Streetwear.",
     "sizes": []
   }
+  {
+    "name": "Workshit Vandutch Eyed",
+    "category": "Accessories",
+    "images": [
+      ".jpg"
+    ],
+    "price": 320000,
+    "description": "Workshit Vandutch Eyed dari koleksi K VÉNARI Streetwear.",
+    "sizes": []
+    }
 ];
